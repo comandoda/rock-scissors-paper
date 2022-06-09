@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/rock-scissors-paper/static/css/main.f0a265c0.css",
+    "main.js": "/github.io/rock-scissors-paper/static/js/main.08a53258.js",
+    "static/js/787.78726a41.chunk.js": "/github.io/rock-scissors-paper/static/js/787.78726a41.chunk.js",
+    "index.html": "/github.io/rock-scissors-paper/index.html",
+    "main.f0a265c0.css.map": "/github.io/rock-scissors-paper/static/css/main.f0a265c0.css.map",
+    "main.08a53258.js.map": "/github.io/rock-scissors-paper/static/js/main.08a53258.js.map",
+    "787.78726a41.chunk.js.map": "/github.io/rock-scissors-paper/static/js/787.78726a41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0a265c0.css",
+    "static/js/main.08a53258.js"
+  ]
+}
